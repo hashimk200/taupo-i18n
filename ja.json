@@ -948,7 +948,7 @@
     "context": "This is the button label to select a report abuse claim of type sexually explicit."
   },
   "abuseReportHate": {
-    "message": "Hate Speech",
+    "message": "ヘイトスピーチ",
     "context": "This is the button label to select a report abuse claim of type hate speech."
   },
   "abuseReportViolence": {
