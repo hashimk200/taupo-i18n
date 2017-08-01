@@ -1,7 +1,7 @@
 {
   "thisLanguageDescription": {
     "message": "Japanese",
-    "context": "This word describes this language itself IN ENGLISH! DO NOT TRANSLATE THIS!! This phrase must remain in English."
+    "context": "This word describes this language itself IN ENGLISH! DO NOT TRANSLATE THIS!! This phrase must remain in English 1."
   },
   "thisLanguage": {
     "message": "日本語",
@@ -964,7 +964,7 @@
     "context": ""
   },
   "deleteRecord": {
-    "message": "Delete Record",
+    "message": "レコードの削除",
     "context": "This is used as a button label and dialog header allowing a user to delete a record from the system."
   },
   "deleteRecordConfirm": {
