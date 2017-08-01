@@ -972,7 +972,7 @@
     "context": "This is the question prompting a user when they choose to delete a record. We confirm they are certain with their decision."
   },
   "deleteRecordCancel": {
-    "message": "Cancel",
+    "message": "キャンセル",
     "context": "Button label to cancel the action of deleting a record."
   },
   "deleteRecordDelete": {
