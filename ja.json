@@ -952,11 +952,11 @@
     "context": "This is the button label to select a report abuse claim of type hate speech."
   },
   "abuseReportViolence": {
-    "message": "Violence",
+    "message": "暴力",
     "context": "This is the button label to select a report abuse claim of type violence"
   },
   "abuseReportElse": {
-    "message": "Something Else",
+    "message": "何か他の",
     "context": "This button label is to select a report abuse claim of type something else."
   },
   "abuseThanks": {
