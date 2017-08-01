@@ -1088,7 +1088,7 @@
     "context": "This is a menu button action allowing a user to share a direct link to a record."
   },
   "additionalInformation": {
-    "message": "Additional Information",
+    "message": "Additional Information123",
     "context": "This is a label displayed several places titled Additional Information."
   }
 }
