@@ -60,7 +60,7 @@
     "context": "Verbiage describing the three registered trademarks we hold on People Locator."
   },
   "expirationDate": {
-    "message": "失効日付",
+    "message": "失効日",
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
   "restError1": {
@@ -932,23 +932,23 @@
     "context": "This is the page title for the OMB Notice."
   },
   "abuseReportAbuse": {
-    "message": "Report Abuse",
+    "message": "虐待を報告する",
     "context": "This is used as a sectional header and the label of the report abuse button."
   },
   "abuseWhatReport": {
-    "message": "What would you like to report?",
+    "message": "あなたは何を報告したいですか？",
     "context": "This is the query presented to a user when asked to be more specific about the type of abuse report the user is filing."
   },
   "abuseReportSpam": {
-    "message": "Spam",
+    "message": "スパム",
     "context": "This is the button label to select a report abuse claim of type spam."
   },
   "abuseReportSex": {
-    "message": "Sexually Explicit",
+    "message": "性的露呈",
     "context": "This is the button label to select a report abuse claim of type sexually explicit."
   },
   "abuseReportHate": {
-    "message": "Hate Speech",
+    "message": "ヘイトスピーチ",
     "context": "This is the button label to select a report abuse claim of type hate speech."
   },
   "abuseReportViolence": {
